@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #B40B0B;
 }
 
 p {
@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #B40B0B; /* Blue */
+    color: #FF0000;
 }
 
 .card {
@@ -54,7 +54,7 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #B40B0B; /* Black */
     color: #ffffff;
 }
 
